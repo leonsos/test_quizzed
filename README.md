@@ -34,15 +34,15 @@ it would be advisable to register with many natural persons and carry out the su
 
 ### To instal 
 
-**Clone project repository in Laravel**
-**Install project dependencies**
-**Generate .env file**
-**Generate Key**
-**Create database**
-**Add global variable information**
-**run php artisan migrate**
-**run php artisan migrate:fresh --seed**
-**run php artisan serve**
+-**Clone project repository in Laravel**
+-**Install project dependencies**
+-**Generate .env file**
+-**Generate Key**
+-**Create database**
+-**Add global variable information**
+-**run php artisan migrate**
+-**run php artisan migrate:fresh --seed**
+-**run php artisan serve**
 
 ## Contributing
 
