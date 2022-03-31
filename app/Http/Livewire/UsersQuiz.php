@@ -12,8 +12,7 @@ class UsersQuiz extends Component
     {
         $users=User::where('name','like','%'.$this->search.'%')
         ->orWhere('email','like','%'.$this->search.'%')
-        ->get()
-        ;//where('id','<>','1');
+        ->get();
         return view('livewire.users-quiz',compact('users'));
         
     }
